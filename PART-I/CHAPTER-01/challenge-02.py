@@ -1,5 +1,5 @@
 """
-    using the combination of for loop and function in python
+    using the combination of for loop and function in python to complete challenge 2
 """
 
 from turtle import *
